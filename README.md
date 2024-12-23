@@ -1,3 +1,5 @@
+#(Tulis nama mahasiswa dan supervisor)
+
 ![image](https://github.com/user-attachments/assets/4848a643-4728-4254-b9ea-75358566438d)
 This Python project is an audio recording application built using the PyQt5 framework for the user interface, PyAudio for audio input, and PyQtGraph for live signal visualization. The app allows users to record, save, visualize, and upload audio signals to Edge Impulse for further analysis, including classifying the signal as the PSU noise or not.
 Features
